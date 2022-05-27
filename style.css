@@ -1,0 +1,38 @@
+ol h5 {
+  background: white;
+  padding: 10px;
+  border-radius: 20px;
+}
+ span {
+   color: 000080;
+   font-size: 16px;
+ }
+
+ li img {
+   border-radius: 20px;
+   height: 100px;
+   text-align: center;
+ }
+
+ .div1 {
+padding: 30px;
+border-radius: 20px;
+margin-top: 20px;
+ }
+
+ .div2 {
+   text-align: center;
+   color: #b6d0f2;
+ }
+
+ 
+
+  h1 {
+    text-align: center;
+    color: azure;
+    font-family: 'Lora', serif;
+    background-color: #93a9db;
+    line-height: 2;
+    border-radius: 20px;
+    margin: 0;
+  }
